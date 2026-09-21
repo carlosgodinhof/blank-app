@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Treino Noturno de Terça",
+    "type": "Treino Semanal",
+    "date": "2026-09-22",
+    "time": "19:30",
+    "location": "Parque da Cidade",
+    "distance": "8 km",
+    "description": "Ritmo moderado com aquecimento e séries curtas no final."
+  },
+  {
+    "id": "2",
+    "title": "Treino Longo de Fim de Semana",
+    "type": "Treino Longo",
+    "date": "2026-09-26",
+    "time": "08:30",
+    "location": "Marginal Fluvial",
+    "distance": "16 km",
+    "description": "Ritmo confortável (Z2) com abastecimento aos 8km."
+  }
+]
