@@ -32,10 +32,7 @@ def load_events():
                 "time": "12:30",
                 "location": "Marginal Fluvial",
                 "distance": "16 km",
-                "description": """No dia 26 (Sábado), começamos com treino às 08h30 e depois voltamos a juntar a comunidade à mesa 🧺☀️"
-                                \n A partir das 12h30, encontramo-nos no Parque de Merendas da Vista Alegre para um piquenique NAS IDEIAS.
-                                \n A ideia é simples: cada um traz qualquer coisa para comer, beber ou ambos, para juntos compormos a mesa. 🥪🍓🥤
-                                \n Contamos convosco! 💜"""
+                "description": "Piquenique com a família e amigos, com direito a passeio de barco."
             }
         ]
         save_events(initial_events)
