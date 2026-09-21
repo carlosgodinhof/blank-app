@@ -19,20 +19,24 @@ def load_events():
                 "title": "Treino Noturno de Terça",
                 "type": "Treino Semanal",
                 "date": "2026-09-22",
-                "time": "19:30",
-                "location": "Parque da Cidade",
-                "distance": "8 km",
-                "description": "Ritmo moderado com aquecimento e séries curtas no final."
+                "time": "19:00",
+                "location": "Rossio - Aveiro",
+                "distance": "4 km",
+                "description": "Treino normal em local especial."
             },
             {
                 "id": "2",
-                "title": "Treino Longo de Fim de Semana",
-                "type": "Treino Longo",
+                "title": "Piquenique de Sábado",
+                "type": "Convívio",
                 "date": "2026-09-26",
-                "time": "08:30",
+                "time": "12:30",
                 "location": "Marginal Fluvial",
                 "distance": "16 km",
-                "description": "Ritmo confortável (Z2) com abastecimento aos 8km."
+                "description": """No dia 26 (Sábado), começamos com treino às 08h30 e depois voltamos a juntar a comunidade à mesa 🧺☀️
+                                A partir das 12h30, encontramo-nos no Parque de Merendas da Vista Alegre para um piquenique NAS IDEIAS.
+                                A ideia é simples: cada um traz qualquer coisa para comer, beber ou ambos, para juntos compormos a mesa. 🥪🍓🥤"""
+
+Contamos convosco! 💜"
             }
         ]
         save_events(initial_events)
